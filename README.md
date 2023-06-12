@@ -2,7 +2,49 @@
 
 We're excited to welcome you to our lab! To help you get started, we have arranged a training session which will be held from **August 28, 2023, to September 1, 2023**. 
 
+## Agenda
 
+### Monday (August 28)
+
+| Time          | Session        | Speaker        |
+| ------------- | -------------- | -------------- |
+| 9:00 - 10:00  | Opening   | Dr. Chuang (莊鈞翔)   |
+| 10:15 - 12:00 | EEG Device intro      | Harry Peng (彭柏勳)   |
+| 12:00 - 13:30 | Lunch Break      | Speaker Name   |
+
+### Tuesday (August 29)
+
+| Time          | Session        | Speaker        |
+| ------------- | -------------- | -------------- |
+| 9:00 - 10:00  | Session 3      | Speaker Name   |
+| 10:15 - 11:15 | Session 4      | Speaker Name   |
+| 11:30 - 12:30 | Session 5      | Speaker Name   |
+
+### Wednesday (August 30)
+
+| Time          | Session        | Speaker        |
+| ------------- | -------------- | -------------- |
+| 9:00 - 10:00  | Session 6      | Speaker Name   |
+| 10:15 - 11:15 | Session 7      | Speaker Name   |
+| 11:30 - 12:30 | Session 8      | Speaker Name   |
+
+### Thursday (August 31)
+
+| Time          | Session        | Speaker        |
+| ------------- | -------------- | -------------- |
+| 9:00 - 10:00  | Session 9      | Speaker Name   |
+| 10:15 - 11:15 | Session 10     | Speaker Name   |
+| 11:30 - 12:30 | Session 11     | Speaker Name   |
+
+### Friday (September 1)
+
+| Time          | Session        | Speaker        |
+| ------------- | -------------- | -------------- |
+| 9:00 - 10:00  | Session 12     | Speaker Name   |
+| 10:15 - 11:15 | Session 13     | Speaker Name   |
+| 11:30 - 12:30 | Session 14     | Speaker Name   |
+
+***
 + Before this training, you will be required to completeat least three of the following four assignments:
 
   1. **Foundational** matlab and EEGlab coding
@@ -21,6 +63,10 @@ Please note that all these assignments need to be forked from our GitHub reposit
 
 Remember, it's important to keep your GitHub repository updated. We look forward to your active participation in our lab training!
 
+## Important Dates
+
+Please note that all homework must be completed and submitted by **August 23, 2023**. 
+
 ## Contact Information
 
 Should you have any queries or require additional information, please feel free to reach out to our TAs by [email](mailto:lab@cnelab.net).
@@ -33,6 +79,12 @@ Should you have any queries or require additional information, please feel free 
 | Shane Fang (枋劭勳) | Master Alimni | NTOU | Deep learning |
 | 許庭瑜 | Master Student | NTHU | EEG Signal Processing |
 
+
+
+
+
+
+***
 Alternatively, you can visit our [website](https://sites.google.com/view/chchuang/).
 
 We look forward to meeting you and are excited about your journey with us!
