@@ -23,7 +23,7 @@ Remember, it's important to keep your GitHub repository updated. We look forward
 
 ## Contact Information
 
-Should you have any queries or require additional information, please feel free to reach out to our TAs by [email](lab@cnelab.net).
+Should you have any queries or require additional information, please feel free to reach out to our TAs by [email](mailto:lab@cnelab.net).
 
 | Name | Position | School | Specialty |
 | --- | --- | --- | --- |
