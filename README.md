@@ -3,10 +3,10 @@
 We're excited to welcome you to our lab! To help you get started, we have arranged a training session which will be held from **August 28, 2023, to September 1, 2023**. 
 
 
-+ During this training, you will be required to completeat least three of the following four assignments:
++ Before this training, you will be required to completeat least three of the following four assignments:
 
   1. **Foundational** matlab and EEGlab coding
-  2. **Foundational** python machine learning implement
+  2. **Foundational** Machine Learning Implement by Python
   3. **Advance** EEGlab data processing
   4. **Advance** Deep learning with PyTorch
 
@@ -21,9 +21,9 @@ Please note that all these assignments need to be forked from our GitHub reposit
 
 Remember, it's important to keep your GitHub repository updated. We look forward to your active participation in our lab training!
 
-# Contact Information
+## Contact Information
 
-Should you have any queries or require additional information, please feel free to reach out to our TAs.
+Should you have any queries or require additional information, please feel free to reach out to our TAs by [email](lab@cnelab.net).
 
 | Name | Position | School | Specialty |
 | --- | --- | --- | --- |
@@ -31,7 +31,7 @@ Should you have any queries or require additional information, please feel free 
 | Cary Chang (張功逸) | PhD student | NTHU | Deep learning |
 | Harry Peng (彭柏勳) | Master Alimni | NTOU | Hyperscanning |
 | Shane Fang (枋劭勳) | Master Alimni | NTOU | Deep learning |
-| Shane Fang (枋劭勳) | Master Student | NTHU |  |
+| 許庭瑜 | Master Student | NTHU | EEG Signal Processing |
 
 Alternatively, you can visit our [website](https://sites.google.com/view/chchuang/).
 
