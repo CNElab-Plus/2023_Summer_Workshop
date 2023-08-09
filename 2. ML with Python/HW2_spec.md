@@ -29,17 +29,3 @@ Apply PCA for dimensionality reduction and visualization of digit images. Given 
 ## Assignment 7: Common Spatial Patterns (CSP)
 
 Apply the CSP algorithm for Brain-Computer Interface (BCI) classification of Electroencephalography (EEG) data. Given a dataset of EEG data with corresponding class labels, use the CSP for feature extraction and classification.
-
-## Assignment 8: DBSCAN
-
-Apply the DBSCAN algorithm for clustering a dataset. Given a two-dimensional dataset, use the DBSCAN algorithm to cluster the data points into different groups.
-
-## Assignment 9: k-fold Cross-Validation
-
-Use k-fold cross-validation to evaluate the performance of a classification model. Using the cross-validation functions in scikit-learn, perform k-fold cross-validation on a classifier and compute the average accuracy.
-
-## Assignment 10: Leave-One-Subject-Out Cross-Validation
-
-Evaluate the performance of a classification model using the Leave-One-Subject-Out Cross-Validation method. Given a dataset with multiple subjects, apply the Leave-One-Subject-Out validation method for performance evaluation of a classifier.
-
-Remember to fork the assignments from our GitHub repository, and upon completion, upload them to your personal GitHub account. We look forward to seeing your solutions!
