@@ -8,41 +8,47 @@ We're excited to welcome you to our lab! To help you get started, we have arrang
 
 | Time          | Session        | Speaker        |
 | ------------- | -------------- | -------------- |
-| 9:00 - 10:00  | Opening   | Dr. Chuang (莊鈞翔)   |
-| 10:15 - 12:00 | EEG Device intro      | Harry Peng (彭柏勳)   |
-| 12:00 - 13:30 | Lunch Break      | Speaker Name   |
+| 10:00 - 10:50 | Opening | Dr. Chuang (莊鈞翔)   |
+| 11:00 - 12:00 | Introduction to proposal | Cary(張功逸)  |
+| 12:00 - 13:20 | Lunch Break |   |
+| 13:30 - 14:20 | LiveAmp | Harry(彭伯勳) Ting(許庭瑜) |
+| 14:30 - 15:20 | Channel location | Harry(彭伯勳) Ting(許庭瑜) |
+| 15:30 - 16:20 | EEG recording + Mobilab | Harry(彭伯勳) Ting(許庭瑜) |
 
 ### Tuesday (August 29)
 
 | Time          | Session        | Speaker        |
 | ------------- | -------------- | -------------- |
-| 9:00 - 10:00  | Session 3      | Speaker Name   |
-| 10:15 - 11:15 | Session 4      | Speaker Name   |
-| 11:30 - 12:30 | Session 5      | Speaker Name   |
-
+| 10:00 - 10:50 | Introduction of Matlab | Howard(徐浩哲) |
+| 11:00 - 12:00 | EEGlab and preprocessing | Howard(徐浩哲) |
+| 12:00 - 13:20 | Lunch Break |   |
+| 13:30 - 14:20 | ERP | Howard(徐浩哲) |
+| 14:30 - 15:20 | Power + ERSP | Ken(李冠毅) |
+| 15:30 - 16:20 | EEG connectivity | Howard(徐浩哲) |
 ### Wednesday (August 30)
 
 | Time          | Session        | Speaker        |
 | ------------- | -------------- | -------------- |
-| 9:00 - 10:00  | Session 6      | Speaker Name   |
-| 10:15 - 11:15 | Session 7      | Speaker Name   |
-| 11:30 - 12:30 | Session 8      | Speaker Name   |
-
+| 10:00 - 10:50 | Introduction of Machine learning | Cary(張功逸) |
+| 11:00 - 12:00 | Train, validation, and test | Cary(張功逸) |
+| 12:00 - 13:20 | Lunch Break |   |
+| 13:30 - 14:20 | Linear regression | Cary(張功逸) |
+| 14:30 - 15:20 | Linear regression | Cary(張功逸) |
+| 15:30 - 16:20 | Linear discriminant analysis | Cary(張功逸) |
 ### Thursday (August 31)
 
 | Time          | Session        | Speaker        |
 | ------------- | -------------- | -------------- |
-| 9:00 - 10:00  | Session 9      | Speaker Name   |
-| 10:15 - 11:15 | Session 10     | Speaker Name   |
-| 11:30 - 12:30 | Session 11     | Speaker Name   |
-
+| 10:00 - 10:50 | Introduction of Deep learning | Shane(枋劭勳) |
+| 11:00 - 12:00 | CNN, MLP | Shane(枋劭勳) |
+| 12:00 - 13:20 | Lunch Break |   |
+| 13:30 - 16:20 | TA time | Cary(張功逸) Harry(彭伯勳) Shane(枋劭勳) Ting(許庭瑜) Ken(李冠毅)|
 ### Friday (September 1)
 
 | Time          | Session        | Speaker        |
 | ------------- | -------------- | -------------- |
-| 9:00 - 10:00  | Session 12     | Speaker Name   |
-| 10:15 - 11:15 | Session 13     | Speaker Name   |
-| 11:30 - 12:30 | Session 14     | Speaker Name   |
+| 10:00 - 12:00  | Project proposal | All students |
+
 
 ***
 + Before this training, you will be required to completeat least three of the following four assignments:
